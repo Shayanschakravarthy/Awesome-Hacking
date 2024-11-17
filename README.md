@@ -1,21 +1,51 @@
 <div align="center">
 
- # [Hack Academia](https://github.com/Hunterdii/Hack-Academia)
+ # [Awesome-Hacking](https://github.com/Hunterdii/Awesome-Hacking)
  
 </div>
 
-Welcome to **Hack-Academia**, your ultimate resource hub for all things hacking, pentesting, and security research.
+Welcome to **Awesome-Hacking**, your ultimate resource hub for all things hacking, pentesting, and security research.
 
 <p align="center">
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<!-- <img src="http://hits.dwyl.com/Hunterdii/awesome-github-profile-readme.svg" alt="Hits Badge"/>
-<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/> -->
-<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
-<img src="https://img.shields.io/badge/License-CCO_1.0-lightgrey.svg?longCache=true" alt="MIT License">
-<img src="https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux%20%7C%20ParrotOs-blue" alt="Platforms">
-<img src="https://img.shields.io/badge/awesome-hacking-red.svg" src="Hack">
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=flat&color=BC4E99" alt="Star Badge"/>
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests"/>
+  <img src="https://img.shields.io/badge/License-CCO_1.0-lightgrey.svg?longCache=true" alt="CCO_1.0 License"/>
+  <img src="https://img.shields.io/badge/Awesome-Hacking-red.svg" alt="Awesome Hacking Badge"/>
+  <img src="https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux%20%7C%20ParrotOs-blue" alt="Platforms">
+  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Badge"/>
+  <img src="https://img.shields.io/github/contributors/Hunterdii/Awesome-Hacking" alt="GitHub Contributors"/>
+  <img src="https://img.shields.io/github/last-commit/Hunterdii/Awesome-Hacking?color=brightgreen" alt="Last Commit"/>
+  <img src="https://img.shields.io/badge/Owner-%40Hunterdii-<COLOR>.svg" alt="Owner Badge"/>
+</p>
 
- 
+# GitHub Stats:
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>🌟 Stars</th>
+      <th>🍴 Forks</th>
+      <th>🐛 Issues</th>
+      <th>📏 Repo Size</th>
+      <th>🔔 Open PRs</th>
+      <th>🔕 Closed PRs</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Hunterdii/Awesome-Hacking?style=flat&logo=github"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Hunterdii/Awesome-Hacking?style=flat&logo=github"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Hunterdii/Awesome-Hacking?style=flat&logo=github"/></td>
+      <td><img alt="Repo Size" src="https://img.shields.io/github/repo-size/Hunterdii/Awesome-Hacking?style=flat&logo=github"/></td>
+      <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/Hunterdii/Awesome-Hacking?style=flat&logo=github"/></td>
+      <td><img alt="Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Hunterdii/Awesome-Hacking?style=flat&color=critical&logo=github"/></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 
 <!--   <a href="https://www.linkedin.com/in/het-patel-8b110525a" ><img src="https://img.shields.io/twitter/follow/HetPate94938685.svg?style=social" /> </a>
  -->
@@ -48,7 +78,7 @@ Additionally, consider the following rules:
 
 URLs marked with **\*** are temporarily unavailable. Please do not delete them without confirming their permanent expiration.
 
-Before submitting a pull request, please review the **[contributing guidelines](https://github.com/Hunterdii/Hack-Academia/blob/main/CONTRIBUTING.md)**. Keep in mind:
+Before submitting a pull request, please review the **[contributing guidelines](https://github.com/Hunterdii/Awesome-Hacking/blob/main/CONTRIBUTING.md)**. Keep in mind:
 
 ```diff
 + This repository is focused on quality over quantity.
