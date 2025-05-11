@@ -35,22 +35,22 @@ Welcome to **Awesome-Hacking**, your ultimate resource hub for all things hackin
   </thead>
   <tbody>
     <tr>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Hunterdii/Awesome-Hacking?style=flat&logo=github"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Hunterdii/Awesome-Hacking?style=flat&logo=github"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Hunterdii/Awesome-Hacking?style=flat&logo=github"/></td>
-      <td><img alt="Repo Size" src="https://img.shields.io/github/repo-size/Hunterdii/Awesome-Hacking?style=flat&logo=github"/></td>
-      <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/Hunterdii/Awesome-Hacking?style=flat&logo=github"/></td>
-      <td><img alt="Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Hunterdii/Awesome-Hacking?style=flat&color=critical&logo=github"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Shayanschakravarthy/Awesome-Hacking?style=flat&logo=github"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Shayanschakravarthy/Awesome-Hacking?style=flat&logo=github"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Shayanschakravarthy/Awesome-Hacking?style=flat&logo=github"/></td>
+      <td><img alt="Repo Size" src="https://img.shields.io/github/repo-size/Shayanschakravarthy/Awesome-Hacking?style=flat&logo=github"/></td>
+      <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/Shayanschakravarthy/Awesome-Hacking?style=flat&logo=github"/></td>
+      <td><img alt="Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Shayanschakravarthy/Awesome-Hacking?style=flat&color=critical&logo=github"/></td>
     </tr>
   </tbody>
 </table>
 </div>
 
 
-<!--   <a href="https://www.linkedin.com/in/het-patel-8b110525a" ><img src="https://img.shields.io/twitter/follow/HetPate94938685.svg?style=social" /> </a>
+<!--   <a href="https://www.linkedin.com/in/Shayan-S-Chakravarthy-456076214" ><img src="https://img.shields.io/twitter/follow/ShayanSC.svg?style=social" /> </a>
  -->
  
-<!--![GitHub forks](https://img.shields.io/github/forks/https%3A%2F%2Fgithub.com%2FHunterdii/https%3A%2F%2Fgithub.com%2FHunterdii%2FHack-Academia)-->
+<!--![GitHub forks](https://img.shields.io/github/forks/https%3A%2F%2Fgithub.com%Shayanschakravarthy/https%3A%2F%2Fgithub.com%Shayanschakravarthy%2FHack-Academia)-->
 
 
 ## 📔 &nbsp;Overview
@@ -78,7 +78,7 @@ Additionally, consider the following rules:
 
 URLs marked with **\*** are temporarily unavailable. Please do not delete them without confirming their permanent expiration.
 
-Before submitting a pull request, please review the **[contributing guidelines](https://github.com/Hunterdii/Awesome-Hacking/blob/main/CONTRIBUTING.md)**. Keep in mind:
+Before submitting a pull request, please review the **[contributing guidelines](https://github.com/Shayanschakravarthy/Awesome-Hacking/blob/main/CONTRIBUTING.md)**. Keep in mind:
 
 ```diff
 + This repository is focused on quality over quantity.
